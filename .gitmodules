@@ -1,0 +1,9 @@
+[submodule "VacTools"]
+	path = VacTools
+	url = https://github.com/Harpoon-Inc/VacTools
+[submodule "Harpoon"]
+	path = Harpoon
+	url = https://github.com/Harpoon-Inc/Harpoon
+[submodule "Injector"]
+	path = Injector
+	url = https://github.com/Harpoon-Inc/Injector
